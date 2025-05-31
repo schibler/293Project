@@ -1,0 +1,3 @@
+[console_scripts]
+toga-client = toga.cli.toga_client:main
+toga-server = toga.cli.toga_server:main

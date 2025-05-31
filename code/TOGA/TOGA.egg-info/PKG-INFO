@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: TOGA
+Version: 1.0.0
+Summary: Tuning Optimizing Genetic Algorithm (TOGA)
+License-File: LICENSE.md
+Requires-Dist: aiohttp
+Requires-Dist: aiohttp-cors
+Requires-Dist: aiojobs
+Requires-Dist: bintrees
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: psutil
+Requires-Dist: pytest
+Requires-Dist: pytest-datadir
+Requires-Dist: PyYAML
+Requires-Dist: scipy
+Requires-Dist: statsmodels
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

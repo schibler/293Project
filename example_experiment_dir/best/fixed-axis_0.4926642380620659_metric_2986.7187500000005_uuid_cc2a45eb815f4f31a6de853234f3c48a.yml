@@ -1,0 +1,18 @@
+genetics:
+  gene:
+    debug: false
+    hyperparams:
+      bb_weight: 0.49266423806206594
+    metrics: metrics.csv
+    output: temp/
+lineage:
+  generation_num: 1
+  mutator: min
+  parent1: 1d61af5d473649789f556f0a7bdd6e0e
+  parent2: cf805d776e6142569736309fa67d2f5e
+metrics:
+  fixed-axis: 0.4926642380620659
+  metric: 2986.7187500000005
+path: null
+trials: 8
+uuid: cc2a45eb815f4f31a6de853234f3c48a

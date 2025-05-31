@@ -1,0 +1,5 @@
+debug: false
+hyperparams:
+  bb_weight: 3.5835811033655816
+metrics: metrics.csv
+output: temp/

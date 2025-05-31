@@ -1,0 +1,8 @@
+output: "temp/"
+metrics: "metrics.csv"
+debug: False
+
+hyperparams:
+  bb_weight:
+    param_type: "float"
+    range: [0, 5]

@@ -1,0 +1,13 @@
+aiohttp
+aiohttp-cors
+aiojobs
+bintrees
+scikit-learn
+matplotlib
+numpy
+psutil
+pytest
+pytest-datadir
+PyYAML
+scipy
+statsmodels

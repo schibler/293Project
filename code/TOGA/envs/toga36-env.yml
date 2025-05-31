@@ -1,0 +1,23 @@
+name: toga36
+
+channels:
+  - conda-forge
+  - defaults
+  - meznom
+  - anaconda
+  - qwant
+
+dependencies:
+  - aiohttp
+  - aiohttp-cors
+  - matplotlib
+  - numpy
+  - pathlib
+  - pandas
+  - pip
+  - psutil
+  - pyaml
+  - scipy
+  - statsmodels
+  - pip:
+    - aenum

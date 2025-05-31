@@ -1,0 +1,21 @@
+conv3_depth:
+  param_type: 'enum'
+  values: [4, 8]
+conv4_depth:
+  param_type: 'enum'
+  values: [6, 23, 36]
+pooling:
+  values: ['avg', 'max']
+  param_type: 'enum'
+optimizer:
+  values: ['adam', 'rmsprop', 'sgd']
+  param_type: 'enum'
+resnet_version:
+  values: ['v1', 'v2', 'next']
+  param_type: 'enum'
+learning_neg_exponent:
+  param_type: 'float'
+  range: [1, 4]
+output: "temp/"
+metrics: "metrics.csv"
+debug: False
